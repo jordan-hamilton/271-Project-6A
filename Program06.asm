@@ -1,10 +1,10 @@
-TITLE Programming Assignment #5     (Program05.asm)
+TITLE Programming Assignment #6     (Program06.asm)
 
 ; Author: Jordan Hamilton
-; Last Modified: 3/4/2019
+; Last Modified: 3/11/2019
 ; OSU email address: hamiltj2@oregonstate.edu
 ; Course number/section: CS271-400
-; Project Number: 5                Due Date: 3/3/2019
+; Project Number: 6                Due Date: 3/17/2019
 ; Description: This program prompts the user to enter a number of integers in the range [10, 200], then generates that many
 ; random integers between 100 and 999 to store in an array. The numbers are displayed to the user, then the list is sorted in
 ; descending order and the median value. is calculated and displayed to the user. Finally, the user is shown the same list again
